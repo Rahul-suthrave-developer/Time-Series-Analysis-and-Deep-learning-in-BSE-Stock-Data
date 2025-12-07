@@ -1,0 +1,2 @@
+# Time-Series-Analysis-and-Deep-learning-in-BSE-Stock-Data
+Time Series Analysis of BSE Stock Index — cleaned and analyzed historical BSE index data, built and compared statistical (ARIMA/SARIMA) and machine-learning (LSTM) forecasting models, N-BEATS Algorithm and produced an interactive notebook with model evaluation and actionable visualizations using Pandas, NumPy, Statsmodels, Scikit-learn and Keras.
